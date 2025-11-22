@@ -1,0 +1,7 @@
+- open and sign in n8n
+- step 1: Create a WorkFlow.
+- step 2: add chat trigger
+- step3: add AI agent
+- step4: add google ai chat model in ai agent and add gemini api key in google ai chat mode
+- step5: add gmail to send message
+- <img width="1559" height="641" alt="Screenshot 2025-11-22 094710" src="https://github.com/user-attachments/assets/d7a0c233-cd36-41c4-aae2-5a6c36e7bd28" />
